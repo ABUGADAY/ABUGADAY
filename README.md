@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 # BUILDING...
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abugaday&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abugaday&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
