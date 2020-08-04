@@ -39,5 +39,5 @@
 [blog]: https://abugaday.github.io/
 [twitter]: https://twitter.com/named_Das
 [instagram]: https://www.instagram.com/dasvenxx
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/%E7%A4%BC%E8%BE%BE-%E5%86%AF-64869913a/
 
