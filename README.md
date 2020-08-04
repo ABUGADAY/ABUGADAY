@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 # BUILDING...
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abugaday&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abugada&layout=compacty)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abugaday&layout=compacty)](https://github.com/anuraghazra/github-readme-stats)
 
