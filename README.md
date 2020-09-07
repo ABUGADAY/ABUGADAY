@@ -1,4 +1,4 @@
-## I'm a Java Developer, and B-Boy!
+## Java Developer, and B-Boy!
 - 🐱 
 - 🎮 
 - 💻 
